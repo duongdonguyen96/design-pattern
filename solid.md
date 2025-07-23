@@ -1,3 +1,6 @@
+
+# 🚀 SOLID
+
 ## 1. Khái niệm Dependency Injection (DI)
 - **Dependency Injection (DI)** là một kỹ thuật trong lập trình giúp tách biệt việc khởi tạo và sử dụng các phụ thuộc (dependencies) của một đối tượng. Thay vì đối tượng tự tạo ra các phụ thuộc, chúng được "tiêm" từ bên ngoài, giúp mã nguồn dễ kiểm thử, mở rộng và bảo trì.
 - **Các khái niệm liên quan:**
